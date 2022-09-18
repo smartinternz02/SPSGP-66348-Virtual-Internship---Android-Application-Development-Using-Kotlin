@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="ghanam.com.abdo.LoginFragment"
+        android:name="singha.com.amit.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/signUpFragment"
-        android:name="ghanam.com.abdo.SignUpFragment"
+        android:name="singha.com.amit.SignUpFragment"
         android:label="fragment_sign_up"
         tools:layout="@layout/fragment_sign_up" >
         <action
@@ -28,7 +28,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="ghanam.com.abdo.HomeFragment"
+        android:name="singha.com.amit.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -49,7 +49,7 @@
     </fragment>
     <fragment
         android:id="@+id/cartFragment"
-        android:name="ghanam.com.abdo.CartFragment"
+        android:name="singha.com.amit.CartFragment"
         android:label="fragment_cart"
         tools:layout="@layout/fragment_cart" >
         <action
@@ -61,7 +61,7 @@
     </fragment>
     <fragment
         android:id="@+id/chatFragment"
-        android:name="ghanam.com.abdo.ChatFragment"
+        android:name="singha.com.amit.ChatFragment"
         android:label="fragment_chat"
         tools:layout="@layout/fragment_chat" >
         <action
@@ -70,7 +70,7 @@
     </fragment>
     <fragment
         android:id="@+id/orderConfirmedFragment"
-        android:name="ghanam.com.abdo.OrderConfirmedFragment"
+        android:name="singha.com.amit.OrderConfirmedFragment"
         android:label="fragment_order_confirmed"
         tools:layout="@layout/fragment_order_confirmed" >
         <action
@@ -79,7 +79,7 @@
     </fragment>
     <fragment
         android:id="@+id/previousOrdersFragment"
-        android:name="ghanam.com.abdo.PreviousOrdersFragment"
+        android:name="singha.com.amit.PreviousOrdersFragment"
         android:label="fragment_previous_orders"
         tools:layout="@layout/fragment_previous_orders" >
         <action
