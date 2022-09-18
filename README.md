@@ -41,3 +41,7 @@ enable the user to check out or edit quantities of items or back to home to cont
 ### Confirm Order screen
 just to inform the user that his order is done.
 ![Screenshot](snippets/sucess.jpeg)
+
+###Video Demo
+here is the link for video demo-
+https://drive.google.com/file/d/1ZV-akPA3hTXk9PF4lpCMNNn2RkXJ0oj9/view?usp=drivesdk
